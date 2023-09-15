@@ -2,7 +2,7 @@ from machine import Pin
 import time
 
 R = Pin(2, Pin.OUT)
-G = Pin(3, Pin.OUT
+G = Pin(3, Pin.OUT)
 B = Pin(4, Pin.OUT)
 B1 = Pin(6, Pin.IN, Pin.PULL_UP)
 B2 = Pin(7, Pin.IN, Pin.PULL_UP)
